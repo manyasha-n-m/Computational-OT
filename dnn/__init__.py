@@ -1,4 +1,4 @@
-from .ml_models import Shannon_network
+from .sinkhorn_nn import Shannon_network
 
 __all__ = [
     "Shannon_network",
